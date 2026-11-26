@@ -30,4 +30,4 @@ tzero pc-fixer
 
 ## License
 
-MIT License.
+T-Zero is licensed under [AGPL-3.0-only](https://github.com/toprakahmetaydogmus/TZeroAlgorithm/blob/main/LICENSE).
